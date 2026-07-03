@@ -13,5 +13,6 @@
 - voice diarization (up to 5 - 10 voices per scene)
 - full portability (after downloading needed models)
 - over 800+ pre-defined voices for dubbing/voice overing
+- low VRAM usage (6Gb VRAM + 16Gb RAM+SWAP or 6Gb VRAM + 32Gb RAM)
 
 #Coming soon.
