@@ -1,7 +1,7 @@
 # 0mniDubbing-Studio
 ## Cross-language video translation and dubbing studio with advanced features
 
-##♨️ Features:
+♨️ Features:
 - voice clone, design (600+ languages)
 - subtitle extraction from voice (100+ languages)
 - subtitle dubbing/voice overing (600+ languages)
