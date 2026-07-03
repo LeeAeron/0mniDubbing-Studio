@@ -1,5 +1,12 @@
-# 0mniDubbing-Studio
-## Cross-language video translation and dubbing studio with advanced features
+<h1 align="center">0mniDubbing-Studio</h1>
+<h1 align="center">Cross-language video translation and dubbing studio with advanced features</h1>
+
+![AceStep](img/0mniDubbing-Studio.png)
+
+[![Release](https://img.shields.io/github/release/LeeAeron/0mniDubbing-Studio.svg)](https://github.com/LeeAeron/0mniDubbing-Studio/releases/latest)
+
+
+## 🔧 About
 
 ♨️ Features:
 - voice clone, design (600+ languages)
@@ -16,3 +23,8 @@
 - low VRAM usage (6Gb VRAM + 16Gb RAM+SWAP or 6Gb VRAM + 32Gb RAM)
 
 #Coming soon.
+
+
+## 📝 License
+
+The **0mniDubbing-Studio** code will be released under Apache 2.0 License. 
