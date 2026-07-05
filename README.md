@@ -1,4 +1,4 @@
-<h1 align="center">0mniDubbing-Studio</h1>
+<h1 align="center">OmniDubbing Studio</h1>
 <h1 align="center">Cross-language video translation and dubbing studio with advanced features</h1>
 
 ![AceStep](img/0mniDubbing-Studio.png)
@@ -12,12 +12,12 @@
 - voice clone, design (600+ languages)
 - subtitle extraction from voice (100+ languages)
 - subtitle dubbing/voice overing (600+ languages)
-- video and audio dubbing and voice overing (100+ languages)
+- video and audio dubbing and voice overing (37 stabe, 140+ suported languages)
 - advanced subtitle edit
 - advanced voice and subtitle extraction
 - advanced dubbing and voice over mix
 - deep and fluid work process steps with save option for future re-work or continuation
-- voice diarization (up to 5 - 10 voices per scene)
+- voice diarization (up to 10 voices)
 - full portability (after downloading needed models)
 - over 800+ pre-defined voices for dubbing/voice overing
 - low VRAM usage (6Gb VRAM + 16Gb RAM+SWAP or 6Gb VRAM + 32Gb RAM)
