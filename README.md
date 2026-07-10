@@ -12,12 +12,12 @@
 - voice clone, design (600+ languages)
 - subtitle extraction from voice (100+ languages)
 - subtitle dubbing/voice overing (600+ languages)
-- video and audio dubbing and voice overing (37 stabe, 140+ suported languages)
-- advanced subtitle edit
+- video, audio and subttile dubbing and voice overing (140+ suported languages)
+- advanced subtitle edit and timing with timeline
 - advanced voice and subtitle extraction
-- advanced dubbing and voice over mix
+- advanced dubbing and voice over mix and timing with timeline 
 - deep and fluid work process steps with save option for future re-work or continuation
-- voice diarization (up to 10 voices)
+- voice diarization and dubbing (up to 10 voices)
 - full portability (after downloading needed models)
 - over 800+ pre-defined voices for dubbing/voice overing
 - low VRAM usage (6Gb VRAM + 16Gb RAM+SWAP or 6Gb VRAM + 32Gb RAM)
